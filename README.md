@@ -1,22 +1,26 @@
 # 🤖 WR AI Toolkit
 
-Ferramentas inteligentes da **WRDesign.AI** para automação, integração e geração de conteúdo com IA.  
-Desenvolvido em **Node.js**, com foco em produtividade e aplicações reais de inteligência artificial.
+Toolkit de Inteligência Artificial desenvolvido pela **[WRDesign.AI](https://www.wrdesign.com.br)**  
+para automação, integração e geração de conteúdo com APIs de IA — rápido, modular e open-source.
 
 ---
 
-## 🚀 Tecnologias
-- Node.js + Express  
-- OpenAI API  
-- LangChain  
-- MongoDB (opcional)  
-- GitHub Actions / Render  
+## 🚀 Sobre o projeto
+
+O **WR AI Toolkit** foi criado para ajudar desenvolvedores, designers e empresas a integrarem **recursos de IA** em suas aplicações de forma simples e segura.  
+Com ele, é possível gerar textos, ideias, resumos e muito mais, utilizando a API da OpenAI.
 
 ---
 
-## ⚙️ Instalação
-```bash
-git clone https://github.com/wrdesignai/wr-ai-toolkit.git
-cd wr-ai-toolkit
-npm install
-npm run dev
+## 🧠 Tecnologias principais
+
+- **Node.js** — back-end rápido e escalável  
+- **Express** — framework minimalista para rotas e APIs  
+- **OpenAI API** — geração de conteúdo com IA  
+- **Dotenv** — gerenciamento seguro de variáveis de ambiente  
+- **CORS** — integração com front-ends externos  
+
+---
+
+## ⚙️ Estrutura de diretórios
+
