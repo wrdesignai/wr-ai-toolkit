@@ -1,3 +1,9 @@
+# ====================================
+# WRDesign.AI - WR AI Toolkit (.gitignore)
+# Baseado no modelo oficial Node.js do GitHub
+# ====================================
+
+
 # Logs
 logs
 *.log
